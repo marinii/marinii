@@ -2,5 +2,6 @@ header {
 text-align: center;
 width:420px;
 height:150px; 
-background-color:blue; 
+background-color:blue;
+line-height:150px;
 }
