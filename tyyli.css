@@ -1,6 +1,6 @@
- <header> {
-  text-align: center;
-  width:420px;
-  height:150px; 
-  background-colour:blue; 
+header {
+text-align: center;
+width:420px;
+height:150px; 
+background-colour:blue; 
 }
