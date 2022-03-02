@@ -67,6 +67,9 @@ ul {
    font-family:ink free;
 }
 ul {
+  list-style-type:square;
+}  
+ul {
    list-style-position: inside;
 }
 ol {  
