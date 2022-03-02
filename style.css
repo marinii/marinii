@@ -39,7 +39,7 @@ a {
 a {
    font-family:ink free;
 }
-body > div {
+body >div >div {
    background-color:white;
    wide:2px;
    width:100px;
