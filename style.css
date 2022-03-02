@@ -21,11 +21,16 @@ h2 {
 }
 h2 {
    background-color:red;
-ul {
+li {
    color:white;
    font-size:14px;
    font-family:ink free;
 }
+li {
+   color:white;
+   font-size:14px;
+   font-family:ink free;
+   }
 h3 {
    color:white; 
 }
