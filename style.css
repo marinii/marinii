@@ -1,5 +1,6 @@
 h1  {
    color:white; 
+   font:20px;
 } 
 h1 {
    background-color:red;
@@ -11,9 +12,13 @@ h2  {
    color:white;
 }
 p  {
-    color:white;
+    color:green;
  }
 a {
    color:white;
  }
  
+header > div {
+   background-color:red; 
+   width:420px
+}
