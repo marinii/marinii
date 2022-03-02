@@ -3,6 +3,8 @@ h1  {
 } 
 h1 {
    font-size:20px;
+}
+h1 {
    font-family:ink free;
 }
 h1 {
@@ -20,7 +22,7 @@ h2 {
 }
 p  {
    color:green;
-   font-size:14px;
+   font-size:12px;
    font-family:arial;
 }
 p {
@@ -36,6 +38,7 @@ a {
  }
 body > div {
    background-color:white;
-   width:2px;
-   height:4200px;
+   wide:2px;
+   width:100px;
+   height:100px;
 }
