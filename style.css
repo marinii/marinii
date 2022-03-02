@@ -35,6 +35,7 @@ a {
    color:white;
  }
 body > div {
+   background-color:white;
    width:420px;
    height:4200px;
 }
