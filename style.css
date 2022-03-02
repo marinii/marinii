@@ -68,4 +68,5 @@ ol {
    font-size:12px;
    font-family:ink free;
    list-style-type: lower-roman; 
+   list-style-position: inside;
    }
