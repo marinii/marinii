@@ -61,13 +61,11 @@ ul {
    color:green;
    font-size:12px;
    font-family:ink free;
-}
- ul {  list-style-type:square;
+   list-style-type:square;
 }
 ol {  
    color:green;
    font-size:12px;
    font-family:ink free;
-ol {
-  list-style-type: lower-roman; 
+   list-style-type: lower-roman; 
    }
