@@ -43,9 +43,6 @@ h4 {
 h4 {
     font-family:ink free;
 }
-h4 {
-   background-color:red;
-}
 p {
    color:green;
    font-size:12px;
@@ -67,7 +64,7 @@ ul {
    font-family:ink free;
 }
 ul {
-  list-style-type:square;
+  list-style-type:circle;
 }  
 ul {
    list-style-position: inside;
