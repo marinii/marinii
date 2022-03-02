@@ -65,6 +65,8 @@ ul {
    color:green;
    font-size:12px;
    font-family:ink free;
+ul {
+   list-style-position: inside;
 }
 ol {  
    color:green;
