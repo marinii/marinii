@@ -24,29 +24,16 @@ h2 {
 }
 p  {
    color:green;
-}
-p { 
    font-size:12px;
-}
-p {
    font-family:ink free;
 }
 p {
-   font-size:12px;
-}
-p {
    color:green;
-}
-p {
-   font-size:14px;
-}
- p {
-    font-family:ink free;
+   font-size:12px;
+   font-family:ink free;
 }
 a {
    color:white;
- }
-a {
    font-family:ink free;
 }
 body >div >div {
