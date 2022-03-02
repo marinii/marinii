@@ -23,7 +23,7 @@ h2 {
 p  {
    color:green;
    font-size:12px;
-   font-family:arial;
+   font-family:ink free;
 }
 p {
    font-size:12px;
@@ -31,11 +31,14 @@ p {
 p {
    color:green;
    font-size:14px;
-   font-family:arial;
+   font-family:ink free;
 }
 a {
    color:white;
  }
+a {
+   font-family:ink free;
+}
 body > div {
    background-color:white;
    wide:2px;
