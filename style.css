@@ -36,14 +36,13 @@ a {
    color:green;
    font-size:12px;
    font-family:ink free;
-ul {
+li {
    color: white
    font-size:14px;
    font-family:ink free;
    }
-body >div >div {
-   background-color:white;
-   wide:2px;
-   width:100px;
-   height:100px;
-}
+li {
+    color: white
+   font-size:14px;
+   font-family:ink free;
+   }
