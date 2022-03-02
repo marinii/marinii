@@ -38,7 +38,7 @@ h4  {
    color:white;
 }
 h4 {
-    font-size:16px;
+    font-size:14px;
 }
 h4 {
     font-family:ink free;
@@ -64,7 +64,7 @@ ul {
    font-family:ink free;
 }
 ul {
-  list-style-type:ring;
+  list-style-type:circle;
 }  
 ul {
    list-style-position: inside;
