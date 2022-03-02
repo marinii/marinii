@@ -59,12 +59,15 @@ ul {
    color:green;
    font-size:12px;
    font-family:ink free;
-   list-style-type:square;
 }
 ol {  
    color:green;
    font-size:12px;
    font-family:ink free;
+}
+ ol {
    list-style-type: lower-roman; 
+}
+ol {
    list-style-position: inside;
    }
