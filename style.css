@@ -10,14 +10,15 @@ h2  {
 h2 {
    background-color:red;
 }
- p  {
+p  {
    color:green;
 }
-
+p {
+   color:green;
+}
 a {
    color:white;
  }
- 
 header > div {
    background-color:red; 
    width:420px
