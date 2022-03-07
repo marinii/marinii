@@ -86,3 +86,9 @@ ol {
 ol {
    list-style-position: inside;
    }
+div {
+   border:2px;
+   color:white;
+   width:100px;
+   border-style:dotted;
+     }
