@@ -48,7 +48,7 @@ ul {
 ul {
   list-style-type:circle;
   list-style-position:inside;
-  text-align:left; 
+  align:left; 
 }
 ol {  
    color:green;
