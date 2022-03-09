@@ -38,17 +38,14 @@ li {
    color:green;
    font-size:12px;
    font-family:ink free;
-
 }
 ul {
    color:green;
    font-size:12px;
    font-family:ink free;
-}
-ul {
-  list-style-type:circle;
-  list-style-position:inside;
-  align:left; 
+   list-style-type:circle;
+   list-style-position:inside;
+   align:left; 
 }
 ol {  
    color:green;
