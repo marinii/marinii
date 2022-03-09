@@ -38,7 +38,7 @@ li {
    color:green;
    font-size:12px;
    font-family:ink free;
-   align:left;
+
 }
 ul {
    color:green;
@@ -48,7 +48,7 @@ ul {
 ul {
   list-style-type:circle;
   list-style-position:inside;
-  align:center;
+  text-align:left; 
 }
 ol {  
    color:green;
