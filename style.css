@@ -38,6 +38,7 @@ li {
    color:green;
    font-size:12px;
    font-family:ink free;
+   align:middle; 
 }
 ul {
    color:green;
@@ -45,7 +46,6 @@ ul {
    font-family:ink free;
    list-style-type:circle;
    list-style-position:inside;
-   align:middle; 
 }
 ol {  
    color:green;
