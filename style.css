@@ -37,15 +37,14 @@ a {
 li {
    color:green;
    font-size:12px;
-   font-family:ink free;
-   text-align:middle; 
+   font-family:ink free; 
 }
 ul {
    color:green;
    font-size:12px;
    font-family:ink free;
    list-style-type:circle;
-   list-style-position:inside;
+   list-style-position:left;
 }
 ol {  
    color:green;
