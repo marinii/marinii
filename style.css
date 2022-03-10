@@ -44,7 +44,7 @@ ul {
    font-size:12px;
    font-family:ink free;
    list-style-type:circle;
-   list-style-position:middle;
+   list-style-position:inside;
 }
 ol {  
    color:green;
