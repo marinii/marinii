@@ -38,7 +38,6 @@ li {
    color:green;
    font-size:12px;
    font-family:ink free; 
-
 }
 ul {
    color:green;
@@ -53,7 +52,7 @@ ol {
    font-family:ink free;
    list-style-type: lower-roman; 
    list-style-position: inside;
-   }
+}
 div {
    border:2px;
    width:100px;
